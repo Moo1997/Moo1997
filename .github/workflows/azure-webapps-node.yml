@@ -1,0 +1,47 @@
+HTML Code (index.html):
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jerusalem Hotel Gitega</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Jerusalem Hotel Gitega</h1>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Rooms</a></li>
+<li><a href="#">Facilities</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section class="room-list">
+<h2>Our Rooms</h2>
+<div class="room">
+<img src="room1.jpg" alt="Room 1">
+<h3>Deluxe Room</h3>
+<p>Experience luxury in our spacious deluxe room.</p>
+</div>
+<div class="room">
+<img src="room2.jpg" alt="Room 2">
+<h3>Executive Suite</h3>
+<p>Enjoy a comfortable stay in our elegant executive suite.</p>
+</div>
+</section>
+<section class="facilities">
+<h2>Our Facilities</h2>
+<p>Explore our modern facilities including a swimming pool, gym, and restaurant.</p>
+</section>
+</main>
+<footer>
+<p>&copy; 2022 Jerusalem Hotel Gitega. All rights reserved.</p>
+</footer>
+</body>
+</html>
+```
